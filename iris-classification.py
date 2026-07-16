@@ -12,7 +12,7 @@ if 'Id' in df.columns:
 X = df.drop('Species', axis=1)
 y = df['Species']
 
-X_train, X_test, y_train, y_test = train_test_split(
+X_train, X_test, y_train, y_test =  train_test_split(
     X,
     y,
     test_size=0.2,
