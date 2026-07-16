@@ -5,7 +5,7 @@ Machine Learning project using Python and Scikit-learn.
 ## Features
 - Data preprocessing
 - KNN classification
-- Accuracy evaluation
+- Accuracy  Evaluation
 
 ## Technologies Used
 - Python
