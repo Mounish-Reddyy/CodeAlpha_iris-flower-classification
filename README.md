@@ -11,7 +11,7 @@ Machine Learning project using Python and Scikit-learn.
 - Python
 - Pandas
 - Scikit-learn
-- NumPy
+- NumPy 
 
 ## Output
 Achieved 1 or 100% accuracy.
