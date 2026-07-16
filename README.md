@@ -1,6 +1,6 @@
 # Iris Flower Classification
 
-Machine Learning project using Python and Scikit-learn and other libraries.
+Machine Learning project using Python and Scikit-learn .
 
 ## Features
 - Data preprocessing
